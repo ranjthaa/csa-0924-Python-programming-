@@ -1,0 +1,17 @@
+import re
+
+s input("enter the first string")
+
+P P
+
+input("enter the second string") r"{}".format(p)
+
+p if
+
+= re.compile(p) p. fullmatch(s):
+
+print("true")
+
+else:
+
+print("false")

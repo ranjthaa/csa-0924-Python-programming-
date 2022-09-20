@@ -1,0 +1,31 @@
+File
+
+Format
+
+View
+
+Help
+
+File
+
+def maxArea(A, Len) :
+
+area = 0
+
+for i in range(Len) :
+
+for i in range(i + 1, Len): area max(area, min(A[1], A[1]) (1-1))
+
+return area
+
+A
+
+a=[]
+
+num-int(input("enter the length-")) a.append(ele)
+
+for i in range(0,num): ele-int(input())
+
+print(a)
+
+len1 len(a) print(maxArea(a, len1))

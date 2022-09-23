@@ -1,0 +1,15 @@
+a=int(input("enter length of the list:"))
+(b,c)=([],[])
+if (a>0):
+    for i in range(0,a):
+        d=int(input("enter the element:"))
+        b.append(d)
+    for i in range (0,a):
+        d=0
+        for j in range(0,a):
+            if(b[j]<b[i]):
+                d=d+1
+        c.append(d)
+    print(c)
+else:
+    print("enter the valied input")
